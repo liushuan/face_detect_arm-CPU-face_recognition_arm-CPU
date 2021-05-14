@@ -1,4 +1,4 @@
-# face_detect_arm-CPU-
+# face_detect_arm-CPU
 Arm边缘设备 基于CPU 真正超实时的人脸检测算法 720P 图像 只要 15ms
 
 目前基于 RK3399 边缘设备进行测试，纯CPU算法很方便移植。
@@ -12,5 +12,12 @@ CPU消耗在90%左右
 
 需要改进人脸识别算法的欢迎联系。
 ![image](https://user-images.githubusercontent.com/15781088/118230080-a54d6c80-b4bf-11eb-841f-59f366a7050c.png)
+
+
+该算法已经应用在闸机设备上，支撑 Linux / Android 
+
+![image](https://user-images.githubusercontent.com/15781088/118230375-27d62c00-b4c0-11eb-894e-91d8e4a62aa8.png)
+
+
 
 547691062@qq.com
